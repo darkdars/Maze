@@ -1,0 +1,10 @@
+Bem Vindo ao Menu
+
+
+1 - Jogar
+2 - Top10
+3 - Configuracao Labirinto
+4 - Creditos
+5 - Sair
+
+Opcao: 
